@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Hp\\source\\repos\\CarSpeed\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E47A334A-F689-4424-8AC7-DBC3930040E4}|CarSpeed\\CarSpeed.csproj|c:\\users\\hp\\source\\repos\\carspeed\\carspeed\\programm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E47A334A-F689-4424-8AC7-DBC3930040E4}|CarSpeed\\CarSpeed.csproj|solutionrelative:carspeed\\programm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E47A334A-F689-4424-8AC7-DBC3930040E4}|CarSpeed\\CarSpeed.csproj|c:\\users\\hp\\source\\repos\\carspeed\\carspeed\\carspeed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E47A334A-F689-4424-8AC7-DBC3930040E4}|CarSpeed\\CarSpeed.csproj|solutionrelative:carspeed\\carspeed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Programm.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\source\\repos\\CarSpeed\\CarSpeed\\Programm.cs",
+              "RelativeDocumentMoniker": "CarSpeed\\Programm.cs",
+              "ToolTip": "C:\\Users\\Hp\\source\\repos\\CarSpeed\\CarSpeed\\Programm.cs",
+              "RelativeToolTip": "CarSpeed\\Programm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T07:36:32.399Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CarSpeed.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\source\\repos\\CarSpeed\\CarSpeed\\CarSpeed.cs",
+              "RelativeDocumentMoniker": "CarSpeed\\CarSpeed.cs",
+              "ToolTip": "C:\\Users\\Hp\\source\\repos\\CarSpeed\\CarSpeed\\CarSpeed.cs",
+              "RelativeToolTip": "CarSpeed\\CarSpeed.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T07:30:40.089Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

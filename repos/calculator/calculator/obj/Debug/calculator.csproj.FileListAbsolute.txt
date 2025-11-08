@@ -1,0 +1,7 @@
+C:\Users\Hp\source\repos\calculator\calculator\obj\Debug\calculator.csproj.AssemblyReference.cache
+C:\Users\Hp\source\repos\calculator\calculator\obj\Debug\calculator.csproj.CoreCompileInputs.cache
+C:\Users\Hp\source\repos\calculator\calculator\bin\Debug\calculator.exe.config
+C:\Users\Hp\source\repos\calculator\calculator\bin\Debug\calculator.exe
+C:\Users\Hp\source\repos\calculator\calculator\bin\Debug\calculator.pdb
+C:\Users\Hp\source\repos\calculator\calculator\obj\Debug\calculator.exe
+C:\Users\Hp\source\repos\calculator\calculator\obj\Debug\calculator.pdb

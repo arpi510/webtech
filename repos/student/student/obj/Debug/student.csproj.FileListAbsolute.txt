@@ -1,0 +1,7 @@
+C:\Users\Hp\source\repos\student\student\obj\Debug\student.csproj.AssemblyReference.cache
+C:\Users\Hp\source\repos\student\student\obj\Debug\student.csproj.CoreCompileInputs.cache
+C:\Users\Hp\source\repos\student\student\bin\Debug\student.exe.config
+C:\Users\Hp\source\repos\student\student\bin\Debug\student.exe
+C:\Users\Hp\source\repos\student\student\bin\Debug\student.pdb
+C:\Users\Hp\source\repos\student\student\obj\Debug\student.exe
+C:\Users\Hp\source\repos\student\student\obj\Debug\student.pdb

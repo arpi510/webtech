@@ -1,0 +1,7 @@
+C:\Users\Hp\source\repos\odd even number\odd even number\obj\Debug\odd even number.csproj.AssemblyReference.cache
+C:\Users\Hp\source\repos\odd even number\odd even number\obj\Debug\odd even number.csproj.CoreCompileInputs.cache
+C:\Users\Hp\source\repos\odd even number\odd even number\bin\Debug\odd even number.exe.config
+C:\Users\Hp\source\repos\odd even number\odd even number\bin\Debug\odd even number.exe
+C:\Users\Hp\source\repos\odd even number\odd even number\bin\Debug\odd even number.pdb
+C:\Users\Hp\source\repos\odd even number\odd even number\obj\Debug\odd even number.exe
+C:\Users\Hp\source\repos\odd even number\odd even number\obj\Debug\odd even number.pdb

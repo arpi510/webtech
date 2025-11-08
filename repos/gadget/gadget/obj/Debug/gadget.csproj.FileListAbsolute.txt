@@ -1,0 +1,7 @@
+C:\Users\Hp\source\repos\gadget\gadget\obj\Debug\gadget.csproj.AssemblyReference.cache
+C:\Users\Hp\source\repos\gadget\gadget\obj\Debug\gadget.csproj.CoreCompileInputs.cache
+C:\Users\Hp\source\repos\gadget\gadget\bin\Debug\gadget.exe.config
+C:\Users\Hp\source\repos\gadget\gadget\bin\Debug\gadget.exe
+C:\Users\Hp\source\repos\gadget\gadget\bin\Debug\gadget.pdb
+C:\Users\Hp\source\repos\gadget\gadget\obj\Debug\gadget.exe
+C:\Users\Hp\source\repos\gadget\gadget\obj\Debug\gadget.pdb

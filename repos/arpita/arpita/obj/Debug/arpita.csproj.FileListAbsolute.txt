@@ -1,0 +1,2 @@
+C:\Users\Hp\source\repos\arpita\arpita\obj\Debug\arpita.csproj.AssemblyReference.cache
+C:\Users\Hp\source\repos\arpita\arpita\obj\Debug\arpita.csproj.CoreCompileInputs.cache
